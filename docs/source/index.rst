@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to TIM's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**TIM** (/TIMES Ireland Model/) is Ireland's energy system optimisation model for informing policymaking.
+It can be explored and downloaded from the GitHub repository <https://github.com/MaREI-EPMG/times-ireland-model>`_
+and the scenario results can be accessed at <https://epmg.netlify.app>.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
