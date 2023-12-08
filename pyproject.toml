@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "The TIMES Ireland Model (TIM)"
+authors = [{name = "EPMG group", email = "bsuleimenov@ucc.ie"}]
 dynamic = ["version", "description"]
